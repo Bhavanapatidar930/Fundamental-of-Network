@@ -1,0 +1,20 @@
+ IP Address
+       IP Address** (**Internet Protocol Address**.An **IP address** is a **unique numerical label assigned to every device connected to a computer network that uses the internet protocol for communication. this address server as a  unique identifier for the device on a network. enabling device to find and communication with one another effectively. there are two primary versions of IP in use.
+
+- IP address is the unique identifier in the network.
+- Versions of IP:
+      1. IPv4
+      2. IPv6
+
+# IPv4
+
+    - `Size`: It's a 32bit address.
+    - `Structure`: Divided into four sections (octets), each containing 8 bits.
+    - `Range`: from 0 to 255,
+    - `Total Possible Address`: 4.3billion (4,294,967,296 unique)
+
+# IPv6
+
+    - size: -128bit address
+    - Structure :-Divided into eight sections, 16bits
+    - Formet :- written in **eight groups of four hexadecimal digits**, separated by colons for example ***xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx***
