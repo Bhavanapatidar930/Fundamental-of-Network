@@ -1,0 +1,105 @@
+# Network
+
+Network: Net + Work
+
+A network is a group of two or more connected computer and devices that share resourced. exchange data and communicated with each other.**( time and money saved basic. kam time me jada work kiya ja shake)
+
+# Types of Network
+
+# LAN (Local Area Network):
+
+    - `device` Switch
+    - `range`: 4m-100m
+    - `devices supported`: 2 to 100PCs
+    - Definition : connected device within a small area like a office or home for sharing resourced    
+
+# CAN (Campus Area Network):
+
+    - `device`: L3 Switch, work on Layer 3 (Network Layer)
+    - `range`: 4m - 1km
+    - `devices supported`: 2 to 100 PC
+    - **Definition**: A network connecting multiple LANs within a university, business campus, or military base.
+
+# MAN (Metropolitan Area Network):
+
+    - `device`: Router, organization own router
+    - `range`: 4m - city wide
+    - `devices supported`: 2 or more locations
+    - **Definition**: A network that covers a city or a large campus, linking multiple LANs.
+
+# WAN (Wide Area Network):
+
+    - `device`: Router, by ISPs, ISPs involved in the network
+    - `range`: 4m-worldwide
+    - `devices supported`: 2 or more locations
+    - **Definition**: A large network that connects devices across cities, countries, or globally. The Internet is the largest WAN.
+
+# PAN (Personal Area Network):
+
+    - `device`: using your own device for sharing data
+    - `range`: Up to 10m
+    - `devices supported`: 1 to few devices
+    - **Definition**: A small network for personal devices within a short range.
+
+# WLAN (Wireless Local Area Network):
+
+    - `device`: Wi-Fi Router
+    - `range`: 20m-50m
+    - `devices supported`: 2 or more points
+    - **Definition**: A type of LAN that uses wireless communication (Wi-Fi) instead of cables.
+
+# WCAN (Wireless CAN)
+
+  - `device`: Wi-Fi Access Point (AP)
+  - `range`: 20m-1km
+  - `devices supported`: 2 to 250 PCs
+  -  Definition :- wireless network used across a campus area . similar to Can 
+
+# WMAN (Wireless MAN)
+
+  - `device`: Wi-Fi CPE ( Customer Premises Equipment)
+  - `range`: 20m - 15km
+  - `devices supported`: 2 or more points
+  -  Definition :- wireless version of MAN. often using CPEs for connectivity
+
+# WWAN (Wireless WAN)
+
+    -  device`:
+    - `range`: 15km - 1000s of Km, (approximate)
+    - `devices supported`: Cellular devices, IoT, etc.
+    - Definition :- wireless network spanning a very large area. using cellular and satellite 
+
+> Lease Line
+
+# OTHER NETWOEK
+    VPN (Virtual Private Network)-
+       **Definition**: A secure, encrypted network created over a public network (usually the Internet) to allow private communication.
+    
+  - Range**: Unlimited (over the Internet)
+      
+  - Connected Devices**: PCs, laptops, smartphones (used for secure remote access to office or private networks)
+
+# IoT Network (Internet of Things Network)**
+
+      - Definition**: A network designed to connect smart devices and sensors for data exchange and automation.
+          
+      - Range**: Varies (can be local or wide area using protocols like Zigbee, LoRa, Wi-Fi)
+          
+      - Connected Devices**: Smart home devices, industrial sensors, connected vehicles, wearables
+
+# INTERNET 
+
+      :- Global system on interconnected network that use the internet protocol (IP) to       communication. it allows worldwide access to information and service.
+
+# INTRANET 
+      :- The private network accessible  only to in organizations staff. used for sharing internet resources and collaboration
+
+# NETWORK ROLES**
+
+      Client :- A device a program that accesses service provided by a server . such as a web browser or client server 
+        
+      server :- the computer or system that provides resources . data service and programs to other computers (clients) over a networks.
+
+# ✅ Categories of Network**
+
+      ✅ 1. Peer-to-Peer (P2P) Network**  :- A **P2P network** is a type of network where **all computers are equal** and can **share files and resources directly** with each other **without a central server**.
